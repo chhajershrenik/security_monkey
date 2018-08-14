@@ -1,3 +1,5 @@
+This is cloned for making a quay.io build.
+
 Security Monkey
 ===============
 
